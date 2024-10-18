@@ -2,12 +2,13 @@
   "name": "datetime-sample",
   "version": "1.0.0",
   "main": "dist/datetime.js",
+  "type": "module",
   "repository": "https://github.com/barik/datetime-sample.git",
   "author": "Titus Barik <titus.barik@microsoft.com>",
   "license": "MIT",
   "dependencies": {
-    "dayjs": "^1.10.4",
-    "moment": "^2.29.1"
+    "dayjs": "^1.11.13",
+    "moment": "^2.30.1"
   },
   "devDependencies": {
     "typescript": "^4.1.3"

@@ -16,3 +16,5 @@ now.format("");
 
 // Try: dayjs().format("Mon")
 dayjs().format();
+console.log(dayjs().format());
+
