@@ -1,5 +1,10 @@
-import dayjs from "dayjs";
-import moment from "moment";
+import dayjs from 'dayjs';
+import moment from 'moment';
+
+console.log(moment().format("MMMM Do YYYY, h:mm:ss a"));
+console.log(dayjs().format("dddd, MMMM D, YYYY h:mm A"));
+
+
 
 // Try: moment.format("Tuesday")
 moment().format();

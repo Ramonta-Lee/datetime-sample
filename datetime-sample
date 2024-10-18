@@ -1,4 +1,4 @@
-import dayjs from "dayjs";
+import dayjs, { Ls } from "dayjs";
 import moment from "moment";
 
 // Moment.js examples
